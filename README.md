@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sanjanach99&label=Profile%20Views&color=4DA6FF&style=for-the-badge"/>
 
-<a href="YOUR_LINKEDIN">
+<a href="linkedin.com/in/ch-sanjana">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
