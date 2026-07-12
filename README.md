@@ -68,3 +68,64 @@ class ChSanjana():
 ## 🎯 Career Objective
 
 I'm an aspiring **Data Analyst** passionate about transforming raw datasets into meaningful business insights. I enjoy building end-to-end analytics solutions involving SQL, Python, Machine Learning, Power BI, and workflow automation to solve real business challenges across sales, customer analytics, and supply chain operations.
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github" />
+</p>
+
+### 📊 Data Analytics & Business Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Query-00B294?style=for-the-badge"/>
+</p>
+
+### 🐍 Python Libraries
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+# 📚 Core Competencies
+
+| Analytics | Machine Learning | Business Intelligence |
+|-----------|------------------|----------------------|
+| Data Cleaning | Predictive Modeling | Power BI |
+| Exploratory Data Analysis | Feature Engineering | Dashboard Development |
+| Data Visualization | Scikit-learn | KPI Reporting |
+| SQL Analytics | XGBoost | Data Storytelling |
+| Trend Analysis | AI-assisted Analytics | Business Insights |
+| Sales Analytics | Customer Analytics | Supply Chain Analytics |
