@@ -21,39 +21,36 @@
 </div>
 
 ---
+# 👩‍💻 About Me
 
-# 💫 About Me
+<img align="right" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
-```python
-class ChSanjana():
+Hi! I'm **Ch Sanjana**, an aspiring **Data Analyst** with a passion for transforming raw data into meaningful business insights.
 
-    def __init__(self):
-        self.role = "Aspiring Data Analyst"
-        self.education = "B.E. Electronics & Communication Engineering"
-        self.college = "BMS Institute of Technology & Management"
-        self.cgpa = "7.09"
+I enjoy working on end-to-end analytics projects that combine **SQL, Python, Power BI, Machine Learning, and AI-powered automation** to solve real-world business problems.
 
-        self.interests = [
-            "Business Intelligence",
-            "Data Analytics",
-            "Machine Learning",
-            "Data Storytelling",
-            "AI-Powered Analytics"
-        ]
+Currently, I'm building portfolio projects focused on **Supply Chain Analytics, Customer Analytics, and Sales Intelligence**, while strengthening my skills in advanced SQL, Business Intelligence, and Data Engineering.
 
-        self.current_focus = [
-            "Advanced SQL",
-            "Power BI",
-            "Python",
-            "Data Engineering",
-            "AI Agents"
-        ]
+### 🎓 Education
+- **B.E. Electronics & Communication Engineering**
+- **BMS Institute of Technology & Management**
+- **CGPA:** 7.09
 
-    def motto(self):
-        return "Transforming raw data into business decisions."
-```
+### 💡 Interests
+- 📊 Business Intelligence
+- 📈 Data Analytics
+- 🤖 Machine Learning
+- 📖 Data Storytelling
+- 🚀 AI-Powered Analytics
 
----
+### 🌱 Currently Learning
+- Advanced SQL
+- Power BI
+- Data Engineering
+- AI Agents & Automation (n8n)
+- Statistics for Analytics
+
+> **"I believe every dataset has a story—my goal is to uncover it and turn it into actionable business decisions."**
 
 ## 🚀 What I'm Working On
 
@@ -218,10 +215,6 @@ https://github.com/sanjanach99/SalesVision-Sales-Analytics-Dashboard
 # 📈 GitHub Analytics
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sanjanach99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DA6FF&icon_color=4DA6FF"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanach99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DA6FF"/>
 
 </div>
 
