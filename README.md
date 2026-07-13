@@ -131,7 +131,6 @@ I'm an aspiring **Data Analyst** passionate about transforming raw datasets into
 | Sales Analytics | Customer Analytics | Supply Chain Analytics |
 
 ---
-
 ---
 
 # 🚀 Featured Projects
@@ -163,7 +162,7 @@ https://github.com/sanjanach99/SupplySync---AI-Driven-Supply-Chain-Optimization-
 
 </td>
 
-<td width="23%" valign="top">
+<td width="33%" valign="top">
 
 ## 👥 Customer Churn
 
@@ -187,7 +186,7 @@ https://github.com/sanjanach99/Customer-Churn-Predictive-Analytics
 
 </td>
 
-<td valign="top">
+<td width="33%" valign="top">
 
 ## 📊 SalesVision
 
@@ -213,3 +212,34 @@ https://github.com/sanjanach99/SalesVision-Sales-Analytics-Dashboard
 
 </tr>
 </table>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sanjanach99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DA6FF&icon_color=4DA6FF"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanach99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DA6FF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sanjanach99&theme=tokyonight&hide_border=true&background=0D1117&ring=4DA6FF&fire=4DA6FF&currStreakLabel=FFFFFF"/>
+
+</div>
+
+---
+
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanach99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4DA6FF&line=4DA6FF&point=FFFFFF"/>
+
+</div>
