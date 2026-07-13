@@ -163,7 +163,7 @@ https://github.com/sanjanach99/SupplySync---AI-Driven-Supply-Chain-Optimization-
 
 </td>
 
-<td width="33%" valign="top">
+<td width="23%" valign="top">
 
 ## 👥 Customer Churn
 
@@ -187,7 +187,7 @@ https://github.com/sanjanach99/Customer-Churn-Predictive-Analytics
 
 </td>
 
-<td width="33%" valign="top">
+<td valign="top">
 
 ## 📊 SalesVision
 
